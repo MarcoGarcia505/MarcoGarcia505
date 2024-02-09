@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    Over the past 3+ years, I´ve worked in various areas of software developer, including front-end developer, Cloud, back-end, and app UI/UX. I´m proud to have worn many hats.  
+    Over the past 3+ years, I´ve worked in various areas of software developer, including front-end developer, Cloud, back-end, and app UI/UX. I´m proud to have worn many hats. If you are interested, look at my <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Web Portfolio</a>
   </em> 
   <br>
 </p>
